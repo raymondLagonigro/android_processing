@@ -12,6 +12,7 @@ li {
   align-items: center;
   padding: 12px 0;
   box-sizing: border-box;
+  flex-basis: 600px;
 }
 
 
